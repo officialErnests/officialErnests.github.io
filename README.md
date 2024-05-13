@@ -1,1 +1,1 @@
-### Es taisu applikāciju līdzīgu TZauram
+### Es taisu applikāciju
