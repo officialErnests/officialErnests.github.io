@@ -111,7 +111,11 @@ function test() {
     // Initialize data fetching
     fetchData();
 
-    getJsonData()
+    // finish this
+    /**  getJsonData((data) => {
+        console.log("Data in useJsonData function:", data);
+        // Perform operations with the data here
+    });*/
     
 
     
