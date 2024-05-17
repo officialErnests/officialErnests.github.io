@@ -1,0 +1,41 @@
+{
+    "vardskiras" : {
+        "lietvārds" : {
+            "lokāms" : true,
+            "nozīme un uzdevums" : "Patsāvīgs vārds",
+            "sugas vārds vai īpašvārds" : 1,
+            "dzimte" : ["vīriešu","sieviešu"],
+            "skaitlis" : ["vsk","dsk"],
+            "deklanācija" : ["nav", 
+                "1.deklanācija", 
+                "2.deklanācija", 
+                "3.deklanācija", 
+                "4.deklanācija", 
+                "5.deklanācija", 
+                "6.deklanācija"],
+            "Līdzskaņu mija" : ["nav",
+                "2.deklanācija",
+                "5.deklanācija",
+                "6.deklanācija"],
+            "atgriezeniskais" : false,
+            "locīšana" : {
+                "N. kas?" : "",
+                "Ģ. kā?" : "",
+                "D. kam?" : "",
+                "A. ko?" : "",
+                "I. ar ko?" : "",
+                "L. kur?" : "",
+                "V. !" : ""
+            }
+        },
+        "ipasibas vārds" : "īpašības vārds",
+        "skaitla vārds" : "skaitļa vārds",
+        "vietniekvārds" : "vietniekvārds",
+        "darbības vārds" : "darbības vārds",
+        "apstakla vārds" : "apstākļa vārds",
+        "prievārds" : "prievārds",
+        "saiklis" : "saiklis",
+        "partikula" : "partikula",
+        "izsauksmes vārds" : "izsauksmes vārds"
+    }
+}
